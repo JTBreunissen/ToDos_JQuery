@@ -8,4 +8,4 @@ Simple ToDo app, using JQuery
 3. `Click existing To-Dos to mark them as finished`
 4. `Hover over a To-Do and click the Delete icon to remove a To-Do`
 
-![](https://gyazo.com/13dc2e59b92b00c96a354703f7d31289)
+![](https://i.gyazo.com/13dc2e59b92b00c96a354703f7d31289.png)
